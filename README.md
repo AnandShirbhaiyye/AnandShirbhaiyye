@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Anand Shirbhaiyye</h1>
 <h3 align="center">I am passionate about web development and already developed some production ready applications. I am always ready to learn new things and implement those in project</h3>
 
-<img align="right" alt="coding" width="300" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandshirbhaiyye&label=Profile%20views&color=0e75b6&style=flat" alt="anandshirbhaiyye" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandshirbhaiyye" alt="anandshirbhaiyye" /></a> </p>
