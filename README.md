@@ -1,5 +1,3 @@
-[![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)](https://AnandShirbhaiyye)
-
 <h1 align="center">Hi 👋, I'm Anand Shirbhaiyye</h1>
 <h3 align="center">I am passionate about web development and already developed some production ready applications. I am always ready to learn new things and implement those in project</h3>
 
